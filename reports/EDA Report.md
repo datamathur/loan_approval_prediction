@@ -1,7 +1,8 @@
 # Exploratory Data Analysis
 
-This dataset consists of a [`train.py`](./train.csv) and a [`test.py`](./test.csv). I will be analysing the data in `train.py` file to understand data distribution and plan model training process.
+This dataset consists of a [`train.py`](../data/train.csv) and a [`test.py`](../data/test.csv). I will be analysing the data in `train.py` file to understand data distribution and plan model training process.
 
+The execution notebook for EDA can be found at [EDA.ipynb](../EDA.ipynb)
 
 The traning data can be described by the following properties:
 
